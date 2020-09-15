@@ -105,27 +105,24 @@
             this.lblState.AutoSize = true;
             this.lblState.Location = new System.Drawing.Point(12, 222);
             this.lblState.Name = "lblState";
-            this.lblState.Size = new System.Drawing.Size(40, 13);
+            this.lblState.Size = new System.Drawing.Size(0, 13);
             this.lblState.TabIndex = 8;
-            this.lblState.Text = "bfredvf";
             // 
             // lblStateA
             // 
             this.lblStateA.AutoSize = true;
             this.lblStateA.Location = new System.Drawing.Point(12, 245);
             this.lblStateA.Name = "lblStateA";
-            this.lblStateA.Size = new System.Drawing.Size(35, 13);
+            this.lblStateA.Size = new System.Drawing.Size(0, 13);
             this.lblStateA.TabIndex = 9;
-            this.lblStateA.Text = "label1";
             // 
             // lblStateH
             // 
             this.lblStateH.AutoSize = true;
             this.lblStateH.Location = new System.Drawing.Point(12, 270);
             this.lblStateH.Name = "lblStateH";
-            this.lblStateH.Size = new System.Drawing.Size(35, 13);
+            this.lblStateH.Size = new System.Drawing.Size(0, 13);
             this.lblStateH.TabIndex = 10;
-            this.lblStateH.Text = "label2";
             // 
             // MainForm
             // 
